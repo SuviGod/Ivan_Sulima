@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e733a963-6669-4a40-bbfb-aa4cbb8308ea" name="Changes" comment="">
+    <list default="true" id="e733a963-6669-4a40-bbfb-aa4cbb8308ea" name="Changes" comment="Added project template">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -134,8 +134,16 @@
       <option name="presentableId" value="Default" />
       <updated>1678969940379</updated>
       <workItem from="1678969943447" duration="26154000" />
-      <workItem from="1679054855266" duration="10542000" />
+      <workItem from="1679054855266" duration="10887000" />
     </task>
+    <task id="LOCAL-00001" summary="Added project template">
+      <created>1679068312587</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679068312587</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +159,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added project template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added project template" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
