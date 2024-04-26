@@ -1,3 +1,3 @@
-- Branch named **WebApi** corresponds for testing Upload and Download functionality of DropBox API.
-- Branch named **WebUI** corresponds for testing some functionality of User Intarface opensource demo OrangeHRM using Selenium and Cucumber.
-- Branch named **java_tasks** contains set of problem solutions, covered with unit tests.
+- Branch named **WebApi** contains testing Upload and Download functionality of DropBox API using **Cucumber** .
+- Branch named **WebUI** contains testing some functionality of User Intarface of opensource demo OrangeHRM using **Selenium** and **Cucumber**.
+- Branch named **java_tasks** contains set of problem solutions, covered with unit tests using **Junit**.
